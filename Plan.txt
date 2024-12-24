@@ -1,0 +1,6 @@
+1. Define the structure 
+2. Make components of the scections in respective folders for each page 
+3. animate the transistion to pages 
+4. Add an animating Loader 
+5. Final touch-up
+6. Deployment to server.
